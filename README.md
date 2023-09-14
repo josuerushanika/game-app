@@ -1,3 +1,3 @@
 # game-app
 
-9- Fetching The Games
+10 - creating custom hook for fetching games
